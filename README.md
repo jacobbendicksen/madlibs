@@ -15,7 +15,7 @@ For this activity, you will use what you've learned about git to work collaborat
     bells and whistles on top. If you need more information, check out [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
 
 4. Install [node.js](https://nodejs.org/en/)---the LTS release
-    is likely best for you. If you have a mac, it is likely easist do
+    is likely best for you. If you have a mac, it is likely easiest to do
     that using [homebrew](https://brew.sh/). If you're using 
     Linux (on a virtual machine or otherwise) you shoud likely use
     your distribution's package manager. (If you'd like to 
